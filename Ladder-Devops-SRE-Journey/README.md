@@ -326,8 +326,8 @@ devops-journey/
 
 ## 🤝 Mentor Acknowledgment
 
-**Mentor:** [Mentor's Name]  
-**Company/Role:** [Mentor's Current Role]  
+**Mentor:** Kolawole Deji 
+**Company/Role:** System Engineer
 
 This journey wouldn't be possible without their guidance, patience, and expertise. Grateful for every session, code review, and piece of advice.
 
@@ -363,10 +363,10 @@ This repo can serve as a template for your own DevOps learning journey. Feel fre
 
 ## 📞 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub]
-- **Twitter/X:** [Your Twitter]
-- **Email:** [Your Email]
+- **LinkedIn:** https://www.linkedin.com/in/ugwu-kasie/
+- **GitHub:** https://github.com/KasiePatricia
+- **Twitter/X:** https://x.com/UgwuKasie
+- **Email:** ugwukasiep@gmail.com
 
 ---
 
