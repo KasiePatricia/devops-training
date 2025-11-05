@@ -13,7 +13,7 @@ The process was slow, error-prone, and stressful. That’s when I realized **fro
 ## Expanding to Backend (2024)
 Building on frontend skills, I started exploring backend development to create full-stack applications. I learned Node.js and Express through building APIs for my frontend projects, including user authentication, database integration with PostgreSQL, and real-time features with Socket.io. This led to contributing to an open-source ed-tech platform where I implemented RESTful services and handled data persistence.
 
-## The Failed DevOps Bootcamp (Early 2023)
+## The Failed DevOps Bootcamp (Early 2025)
 I enrolled in a 3-month DevOps bootcamp advertised on Discord Community. The curriculum looked perfect: Linux, Docker, AWS, CI/CD with GitHub Actions. I attended the first two live sessions and even set up a simple Nginx container. Then the mentor vanished — no notice, no refund. The Slack channel died. I was left with half-baked Docker knowledge and a lingering frustration.
 
 ## Professional Experience & Quiet Upskilling (2023–2025)
