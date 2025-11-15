@@ -1,25 +1,22 @@
-# Week 1: Key Learnings & Takeaways
+# Week 2: Key Learnings
 
-| Concept | Insight | Application to My Journey |
-|-------|--------|---------------------------|
-| **SysAdmin → DevOps** | From *manual ops* to *automated delivery* | I used to SSH and restart PM2 — that’s SysAdmin. Now I’ll automate it. |
-| **CALMS Framework** | Culture, Automation, Lean, Measurement, Sharing | My team lacks **measurement** — no SLOs. I’ll introduce response time tracking. |
-| **SRE Error Budgets** | Allows controlled risk | I can push features faster if downtime < 0.5% per quarter. |
-| **Platform Engineering** | Builds tools for developers | I want to create a “deploy button” for my team’s Next.js apps. |
-| **Role Convergence** | All roles need **scripting + monitoring** | My JS/TS skills are a head start — now add Bash + Prometheus. |
+| Insight | Source | Impact |
+|-------|--------|--------|
+| **Git is not just `push`** | Mentor walkthrough | I now see branching as **risk management** |
+| **Vercel = CI/CD for frontend** | vercel.com | My deploys are automated — but **opaque** |
+| **Pipeline = contract** | Assignment 02-B | If I can’t read it, I can’t own it |
+| **Feature flags > long branches** | TBD research | Enables safe rapid iteration |
 
 ---
 
 ## Aha Moment
-> **“DevOps is not about tools. It’s about reducing friction between code and production.”**  
+> **“Every manual step is a bug waiting to happen.”**  
 > — Saying
-
-This explains why my manual deploys were painful. **Automation = speed + reliability.**
 
 ---
 
-## Skills to Prioritize (Week 1–2)
-- [ ] Linux CLI fluency (`find`, `grep`, `awk`, `sed`)
-- [ ] Bash scripting (health checks, backups)
-- [ ] Git branching models (GitFlow)
-- [ ] Docker basics (already started)
+## Skills Gained
+- [x] Read CI/CD config (Vercel, GitLab)
+- [x] Draw deployment flowchart
+- [x] Compare GitFlow vs TBD
+- [ ] Explain pipeline end-to-end (next session)

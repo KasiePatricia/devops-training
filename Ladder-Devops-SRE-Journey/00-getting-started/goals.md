@@ -10,7 +10,7 @@
 ## High-Level Roadmap Mapping
 | Roadmap.sh Stage | Our 8-Week Focus | Weeks |
 |------------------|------------------|-------|
-| **Learn a Programming Language** | Already proficient (JS/TS) | – |
+| **Learn a Programming Language** | Python | Already proficient (JS/TS) | – |
 | **Linux Basics & Scripting** | Week 1 | 1 |
 | **Version Control & Git Workflow** | Week 1–2 | 1–2 |
 | **Containerization (Docker)** | Week 2 | 2 |

@@ -48,9 +48,8 @@ devops-journey/
 ├── 02-week-02/
 │   ├── session-notes.md
 │   ├── assignments/
-│   │   └── docker-basics/
-│   │       ├── Dockerfile
-│   │       └── notes.md
+│   │     ├── assignment-02-git.md
+│   │     └── assignment-02-pipeline.md
 │   ├── learnings.md
 │   └── progress.md
 │
