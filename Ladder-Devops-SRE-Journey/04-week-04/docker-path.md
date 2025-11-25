@@ -1,6 +1,7 @@
 # Docker roadmap
         - https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422
         - https://docs.docker.com/get-started/
+        - https://www.youtube.com/watch?v=GFgJkfScVNU
 
 ## Introduction
     - what are containers?
